@@ -6,10 +6,42 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Sep 2019 21:07:07 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2019 01:14:11 +0800</lastBuildDate>
     
 	<atom:link href="https://wangxin7089.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Markdown基础语法</title>
+      <link>https://wangxin7089.github.io/post/markdown%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Fri, 06 Sep 2019 01:14:11 +0800</pubDate>
+      
+      <guid>https://wangxin7089.github.io/post/markdown%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</guid>
+      <description>Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。
+一、标题 在想要设置为标题的文字前面加#来表示，#后需要加空格
+一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。
+演示：
+# 一级标题 ## 二级标题 ### 三级标题 #### 四级标题 ##### 五级标题 ###### 六级标题  效果如下：
+一级标题 二级标题 三级标题 四级标题 五级标题 六级标题 二、字体 - 加粗 要加粗的文字左右分别用两个*号包起来
+- 斜体 要倾斜的文字左右分别用一个*号包起来
+- 斜体加粗 要倾斜和加粗的文字左右分别用三个*号包起来
+- 删除线 要加删除线的文字左右分别用两个~~号包起来
+演示：
+**加粗的文字** *倾斜的文字* ***斜体加粗的文字*** ~~加删除线的文字~~  效果如下：
+加粗的文字
+斜体的文字
+斜体加粗的文字
+加删除线的文字
+三、引用 在引用的文字前加&amp;gt;即可。引用也可以嵌套，如加两个&amp;gt;&amp;gt;三个&amp;gt;&amp;gt;&amp;gt;
+演示：
+&amp;gt;引用的内容1 &amp;gt;&amp;gt;引用的内容2 &amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;引用的内容3  效果如下:
+&amp;gt;引用的内容1
+&amp;gt;&amp;gt;引用的内容2
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;引用的内容3
+四、分割线 三个或者三个以上的 - 或者 * 。
+演示：
+--- ---- *** ****  效果如下：</description>
+    </item>
     
     <item>
       <title>Hello World</title>
